@@ -1,0 +1,25 @@
+{
+  "name": "goofball",
+  "version": "0.0.0",
+  "description": "Track your goofs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connyay/goofball.git"
+  },
+  "keywords": [
+    "goofs"
+  ],
+  "author": "Connor Hindley <conn.hindley@gmail.com> (http://connorhindley.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connyay/goofball/issues"
+  },
+  "homepage": "https://github.com/connyay/goofball",
+  "dependencies": {
+    "irc": "~0.3.12"
+  }
+}
