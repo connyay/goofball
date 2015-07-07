@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/connyay/goofball",
   "dependencies": {
+    "girth.js": "~1.0.0",
     "irc": "~0.3.12"
   }
 }
