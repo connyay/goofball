@@ -1,4 +1,5 @@
 {
+	"pastebinUrl": "http://pastebin.com/pastebin.php",
     "server": "your.irc.server.com",
     "nick": "goofball",
     "channels": ["#goofball"]
